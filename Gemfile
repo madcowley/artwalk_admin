@@ -9,6 +9,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'rabl'
 gem 'oj'
+gem 'geocoder'
 
 gem 'jquery-rails'
 gem 'turbolinks'
