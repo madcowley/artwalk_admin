@@ -15,7 +15,11 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem "twitter-bootstrap-rails"
+gem 'formtastic', '~> 3.0'
+gem 'formtastic-bootstrap'
 
+gem 'haml'
 group :development, :test do
   gem 'byebug'
 end
